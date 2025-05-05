@@ -1,0 +1,14 @@
+title: La Compagnie le mimosa
+baseurl: /
+description: Site web de la troupe de théâtre la Compagnie le mimosa
+
+pages:
+  body:
+    images:
+      formats: [webp]
+      resize: true
+      responsive: true
+      lazy: true
+      decoding: true
+      caption: true
+      placeholder: lqip

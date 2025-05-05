@@ -1,2 +1,1 @@
-# compagnie-le-mimosa
-
+# Compagnie le mimosa
