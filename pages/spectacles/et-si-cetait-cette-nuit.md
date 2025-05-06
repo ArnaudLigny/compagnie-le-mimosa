@@ -18,7 +18,7 @@ Rejoignez [***Et si c’était cette nuit***](https://www.facebook.com/etsicetai
 
 ## Bande annonce
 
-[Bande annonce sur YouTuve](https://www.youtube.com/watch?v=Cah3FaPfHQQ){embed}
+[Bande annonce sur YouTube](https://www.youtube.com/watch?v=Cah3FaPfHQQ){embed}
 
 ---
 
