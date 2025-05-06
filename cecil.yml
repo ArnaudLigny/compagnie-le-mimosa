@@ -1,5 +1,6 @@
 title: La Compagnie le mimosa
-baseurl: /
+baseurl: https://dev.ligny.org/compagnie-le-mimosa/
+canonicalurl: true
 description: Site web de la troupe de théâtre la Compagnie le mimosa
 
 pages:
