@@ -20,6 +20,8 @@ Rejoignez [***Et si c’était cette nuit***](https://www.facebook.com/etsicetai
 
 [Bande annonce sur YouTuve](https://www.youtube.com/watch?v=Cah3FaPfHQQ){embed}
 
+---
+
 ![img](../../../assets/images/et-si-cetait-cette-nuit/esccn_1.jpg){width=200}
 
 ![img](../../../assets/images/et-si-cetait-cette-nuit/esccn_2.jpg){width=200}
@@ -30,10 +32,10 @@ Rejoignez [***Et si c’était cette nuit***](https://www.facebook.com/etsicetai
 
 ## L’équipe
 
-![Maud Lefèvre dans le rôle de Mercedes](../../../assets/images/et-si-cetait-cette-nuit/Maud_web1.jpg){width=200}
+![Maud Lefèvre dans le rôle de Mercedes](../../../assets/images/et-si-cetait-cette-nuit/Maud_web1.jpg "Maud Lefèvre dans le rôle de Mercedes"){width=200}
 
-![Gratiane de Rigaud dans le rôle de Clara](../../../assets/images/et-si-cetait-cette-nuit/Gratiane-006_web.jpg){width=200}
+![Gratiane de Rigaud dans le rôle de Clara](../../../assets/images/et-si-cetait-cette-nuit/Gratiane-006_web.jpg "Gratiane de Rigaud dans le rôle de Clara"){width=200}
 
-![Mise en scène : Eric Hénon](../../../assets/images/et-si-cetait-cette-nuit/image1.jpg){width=200}
+![Mise en scène : Eric Hénon](../../../assets/images/et-si-cetait-cette-nuit/image1.jpg "Mise en scène : Eric Hénon"){width=200}
 
-![Création lumières : Eric Schoenzetter](../../../assets/images/et-si-cetait-cette-nuit/eric_schoenzetter.png){width=200}
+![Création lumières : Eric Schoenzetter](../../../assets/images/et-si-cetait-cette-nuit/eric_schoenzetter.png "Création lumières : Eric Schoenzetter")
